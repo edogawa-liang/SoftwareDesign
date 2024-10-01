@@ -12,5 +12,4 @@ A library wants to build a management system to efficiently manage books, reader
 
 ---
 
-![UML Diagram](RE6124035_HW2.png)
-
+<img src="RE6124035_HW2.png" alt="UML Diagram" width="80%">
